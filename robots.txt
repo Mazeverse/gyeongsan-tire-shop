@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gs.tire210.com/sitemap.xml
